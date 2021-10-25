@@ -1,0 +1,3 @@
+# staticweb
+
+Static web assignment
