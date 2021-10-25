@@ -30,6 +30,13 @@ body {
  * Header
  */
 
+.gallery {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .nav-masthead .nav-link {
   padding: .25rem 0;
   font-weight: 700;
